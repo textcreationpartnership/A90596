@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the ladies at court, intended to be presented to the House of Lords: against the pride and luxury of the city dames, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90596</idno><idno type="EEBO-CITATION">99895642</idno>
+  <idno type="VID">153264</idno>
+  <idno type="EEBO-PROQUEST">2240946456</idno>
+  
+            <idno type="STC">Wing P1811</idno>
+            <idno type="STC">ESTC R225586</idno>
+            <idno type="PROQUEST">99895642</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895642e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153264)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the ladies at court, intended to be presented to the House of Lords: against the pride and luxury of the city dames, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Sold by R.J.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Courts and courtiers --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:153264:1"/>
+            <head>THE PETITION OF THE LADIES at COURT, Intended to be Presented to The HOUSE of LORDS: AGAINST The Pride and Luxury of the City Dames, <hi>&amp;c.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat the Ladies at Court, and generally all those who have the Honour to appear at Court (truely sensible of the unmannerly and too sawcy Imitations (nay Outvyings) of the City Dames) doe humbly supplicate your Lordships, to repair those Breaches in the Ancient and commendable Fences wherein their Glories were formerly Circumscribed.</p>
+            <p>For although in all preceding times it hath been the accustomed Pra<g ref="char:EOLhyphen"/>ctice throughout the whole World, that the Courts of Soveraign Princes are the places wherein their Magnificence ought to shine, and from the Splendor and Obscurity of the Court, Foreign Princes or their Ambassa<g ref="char:EOLhyphen"/>dours, measure the Force or Weakness of Kingdoms: And that 'tis cer<g ref="char:EOLhyphen"/>tain, that the most necessary Pomp of the Court consists in the Orna<g ref="char:EOLhyphen"/>ment and Gracefulness of the Ladies, which do compose and make up the most Essential Beauty and Gallantry thereof.</p>
+            <p>Nevertheless it is so come to pass (may it please your Lordships) to the general prejudice of the whole Kingdom, and of the said Ladies, that such things wherewith they ought to adorn themselves, and which alone, and they only, and of Right ought to wear, are so Enhansed by the bold Usurpations and insolent practices of the City Dames, that 'tis become Impossible for the aforesaid Ladies (considering the vast Expen<g ref="char:EOLhyphen"/>ces that their Husbands, Themselves, Children and Servants are oblig'd unto in the Services of their Majesties, and for the Renown of the King<g ref="char:EOLhyphen"/>dom) to appear (with that Magnificence as they ought) on the more Solemn and Festival Dayes (when the Honour and Grandeur of their Majesties should be most apparent) in Habits equal to the City Dames, when they are, or account themselves but meanly clad.</p>
+            <p>And by these prejudicial and confident Designs, the City Dames, by a kind of Reputation they get (by making use of the Reputation of the Courtiers) are introduced and admitted at Balls and Playes, so shiningly and magnificently Habited, and with such studied and affected Dresses (the better to counterfeit Ladies of Honour and Quality) that they seem to bid defiance to all the Court, and almost to compare even with the Queen her self.</p>
+            <pb n="2" facs="tcp:153264:2"/>
+            <p>And since the Divertisements at Balls and Playes, permit not a parti<g ref="char:EOLhyphen"/>ticular Examination of the Conditions of All Persons who at such Times and Places do appear, yet the next day we are told, That such a one who attracted the eyes of the whole Court (by a gallant and well com<g ref="char:EOLhyphen"/>posed Dress, and perhaps strove for the place too, which only glanced or little observed then the Dutchesses and other truly Honourable Ladies) was a Merchants, or perhaps a Broakers Wife, or Daughter: By which means much occasion of Laughter is given at Court, and a just Envy to the said Court Ladies, to find themselves so much excell'd by these affected Pup<g ref="char:EOLhyphen"/>pets, in such curious-and Exceeding Rich Attires; in whose esteem Gold and Silver are so low, that they, forsooth, vainly adorn their Nurses or their Servants with them, and impudently prattle, if the Silks or Stuffs they wear, are not of a very rare Lustre, or exceeding Dear, that such are fit, or will serve well enough for the Court Ladies, and not good enough for themselves: But if any Manufactures extraordinary Glorious happen to be brought into the Realm, they must and will first have them (cost what they will) and do raise the prizes of such Manu<g ref="char:EOLhyphen"/>factures so excessively, that the said Court Ladies▪ are not (but with some prejudice) able to attain.</p>
+            <p>The aforesaid Citts do the same in all the Ornaments of the Sex, and are arriv'd to such an Excess of Ambition, (the more to seem like Ladies of Quality) that of late they confidently keep their Footmen in colour'd Liveries: Whereas their Predecessors were honestly contented to keep a short-hair'd Apprentice or two, to wipe their Shooes and make'em shine (which was the chief part of their former Gallantry) and to stalk be<g ref="char:EOLhyphen"/>fore their Mistresses, with their Books under Arm, in a tame Look and modest Suit to Church: But now, forsooth, you shall have them say on all, and on the least occasions, <hi>Where's my Foot-man?</hi> or, <hi>I'le send my Foot-man with the Things;</hi> and <hi>Madam such a one's Foot-man;</hi> and talk loud<g ref="char:EOLhyphen"/>ly in these Fashions, that they may be the more Regarded: 'Tis said, that between <hi>Aldgate</hi> and <hi>Temple-barre,</hi> there are near two thousand of such Livery'd Foot-men, which does much derogate from the Honour of the Court, and from that care which your Lordships ought to have of the Ladyes thereof.</p>
+            <p>So that, may it please your Lordships to consider the Premises, and since some of you have, or may have the knowledge of the Expences wherein the Honour and Condition of the Court Ladies are necessarily engaged, together with the Ill consequences of the Irregular Ambition of the said Citts, to the great Damage of the King and Kingdom, in the abatements of the Splendor of the Court:</p>
+            <p>And further to consider, how many Banckrupts (not to say Cuckolds) are hereby made, and by the excessive Gallantry of their Wives, who keep the Purse, as also the vast Profusion of Money in paying so Dearly for our Ornaments, and the Insupportable confusion of Conditions, which in this Irregularity cannot be discerned.</p>
+            <p>
+               <hi>May it therefore please your Lordships to Order and Enact such Laws, as may timely and needfully suppress all such their Intollerable and Inso<g ref="char:EOLhyphen"/>lent Practices for the time to come; and by so Doing,</hi>
+            </p>
+            <closer>You shall Particularly, Nobly, and Generously Oblige,
+<salute>Most Honourable Lords,</salute>
+               <signed>Your Humble Servants, <hi>The Ladyes at Court,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold by <hi>R. J.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
